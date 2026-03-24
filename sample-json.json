@@ -1,0 +1,11 @@
+{
+    "name": "Peter",
+    "year": "1990",
+    "favnumbers": [1, 2,3 , 4],
+    "randomBool": true,
+    "subset": {
+            "hi": true,
+            "abc": false,
+            "nums": [1, 2, "okay"]
+    }
+}
